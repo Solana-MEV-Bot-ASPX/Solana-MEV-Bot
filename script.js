@@ -1,0 +1,1 @@
+console.log("Solana MEV Bot is active!");
